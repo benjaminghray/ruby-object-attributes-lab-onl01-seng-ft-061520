@@ -1,3 +1,3 @@
 def dog
-  @breed=breed
+  @breed
 end
