@@ -1,3 +1,1 @@
-def dog
-  @breed
-end
+class Dog
